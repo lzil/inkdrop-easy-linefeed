@@ -1,15 +1,13 @@
 {
   "name": "easy-linefeed",
   "main": "./lib/easy-linefeed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "easy new line shortcut for Inkdrop",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/lzil/inkdrop-easy-linefeed",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
